@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "8990746969",
+    "firebase_url": "https://chat-ulima-1ea19.firebaseio.com",
+    "project_id": "chat-ulima-1ea19",
+    "storage_bucket": "chat-ulima-1ea19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8990746969:android:13ef22d4a87c8b8c",
+        "android_client_info": {
+          "package_name": "pe.edu.ulima.chatulima"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8990746969-o7io6tas9ihtgl16fs10dn4e9la39fka.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pe.edu.ulima.chatulima",
+            "certificate_hash": "5CD67F349F49A3AA489383EA77F8A92B272F4B89"
+          }
+        },
+        {
+          "client_id": "8990746969-975kmiifa3pnmfhf9avkmi2tdkcqcjv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg_3yC8NhenkKKY3UNVnaL26BTn3SAi2Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8990746969-975kmiifa3pnmfhf9avkmi2tdkcqcjv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
